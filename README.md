@@ -4,19 +4,13 @@
 
 ## React Native App
 
-1. enter the DrivingBehaviorMonitor folder
-
-   ```bash
-   cd DrivingBehaviorMonitor
-   ```
-
-2. Install dependencies
+1. Install dependencies
 
    ```bash
    npm install
    ```
 
-3. Start the app
+2. Start the app
 
    ```bash
     npm start
